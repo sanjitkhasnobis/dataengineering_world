@@ -9,6 +9,6 @@ Spark is Faster in Performance :
 
 
 
-| Attempt | #1    | #2    |
-| :-----: | :---: | :---: |
-| Seconds | Spark is fatster than Hadoop as it uses In-Memmory (RAM) for reading and writing data.  | The Hadoop use disks for intermediate Read and Write.   |
+| #1    | #2    |
+| :---: | :---: |
+| Spark is fatster than Hadoop as it uses In-Memmory (RAM) for reading and writing data.  | The Hadoop use disks for intermediate Read and Write.   |
